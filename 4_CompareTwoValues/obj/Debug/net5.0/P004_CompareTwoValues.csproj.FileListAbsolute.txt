@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.exe
+C:\ALGORITHMBASICS\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.deps.json
+C:\ALGORITHMBASICS\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.runtimeconfig.json
+C:\ALGORITHMBASICS\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.dll
+C:\ALGORITHMBASICS\P004_CompareTwoValues\bin\Debug\net5.0\ref\P004_CompareTwoValues.dll
+C:\ALGORITHMBASICS\P004_CompareTwoValues\bin\Debug\net5.0\P004_CompareTwoValues.pdb
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.dll
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\ref\P004_CompareTwoValues.dll
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.pdb
+C:\ALGORITHMBASICS\P004_CompareTwoValues\obj\Debug\net5.0\P004_CompareTwoValues.genruntimeconfig.cache

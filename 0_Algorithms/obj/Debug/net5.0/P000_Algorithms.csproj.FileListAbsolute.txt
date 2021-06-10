@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P000_Algorithms\bin\Debug\net5.0\P000_Algorithms.exe
+C:\ALGORITHMBASICS\P000_Algorithms\bin\Debug\net5.0\P000_Algorithms.deps.json
+C:\ALGORITHMBASICS\P000_Algorithms\bin\Debug\net5.0\P000_Algorithms.runtimeconfig.json
+C:\ALGORITHMBASICS\P000_Algorithms\bin\Debug\net5.0\P000_Algorithms.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P000_Algorithms\bin\Debug\net5.0\P000_Algorithms.dll
+C:\ALGORITHMBASICS\P000_Algorithms\bin\Debug\net5.0\ref\P000_Algorithms.dll
+C:\ALGORITHMBASICS\P000_Algorithms\bin\Debug\net5.0\P000_Algorithms.pdb
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.dll
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\ref\P000_Algorithms.dll
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.pdb
+C:\ALGORITHMBASICS\P000_Algorithms\obj\Debug\net5.0\P000_Algorithms.genruntimeconfig.cache

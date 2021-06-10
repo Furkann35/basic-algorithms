@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P0002_CylinderVolume\bin\Debug\net5.0\P0002_CylinderVolume.exe
+C:\ALGORITHMBASICS\P0002_CylinderVolume\bin\Debug\net5.0\P0002_CylinderVolume.deps.json
+C:\ALGORITHMBASICS\P0002_CylinderVolume\bin\Debug\net5.0\P0002_CylinderVolume.runtimeconfig.json
+C:\ALGORITHMBASICS\P0002_CylinderVolume\bin\Debug\net5.0\P0002_CylinderVolume.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P0002_CylinderVolume\bin\Debug\net5.0\P0002_CylinderVolume.dll
+C:\ALGORITHMBASICS\P0002_CylinderVolume\bin\Debug\net5.0\ref\P0002_CylinderVolume.dll
+C:\ALGORITHMBASICS\P0002_CylinderVolume\bin\Debug\net5.0\P0002_CylinderVolume.pdb
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.dll
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\ref\P0002_CylinderVolume.dll
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.pdb
+C:\ALGORITHMBASICS\P0002_CylinderVolume\obj\Debug\net5.0\P0002_CylinderVolume.genruntimeconfig.cache

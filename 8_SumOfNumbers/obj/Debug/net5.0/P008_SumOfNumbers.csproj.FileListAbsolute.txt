@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P008_SumOfNumbers\bin\Debug\net5.0\P008_SumOfNumbers.exe
+C:\ALGORITHMBASICS\P008_SumOfNumbers\bin\Debug\net5.0\P008_SumOfNumbers.deps.json
+C:\ALGORITHMBASICS\P008_SumOfNumbers\bin\Debug\net5.0\P008_SumOfNumbers.runtimeconfig.json
+C:\ALGORITHMBASICS\P008_SumOfNumbers\bin\Debug\net5.0\P008_SumOfNumbers.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P008_SumOfNumbers\bin\Debug\net5.0\P008_SumOfNumbers.dll
+C:\ALGORITHMBASICS\P008_SumOfNumbers\bin\Debug\net5.0\ref\P008_SumOfNumbers.dll
+C:\ALGORITHMBASICS\P008_SumOfNumbers\bin\Debug\net5.0\P008_SumOfNumbers.pdb
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.dll
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\ref\P008_SumOfNumbers.dll
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.pdb
+C:\ALGORITHMBASICS\P008_SumOfNumbers\obj\Debug\net5.0\P008_SumOfNumbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.exe
+C:\ALGORITHMBASICS\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.deps.json
+C:\ALGORITHMBASICS\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.runtimeconfig.json
+C:\ALGORITHMBASICS\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.dll
+C:\ALGORITHMBASICS\P009_BestGrade\bin\Debug\net5.0\ref\P009_BestGrade.dll
+C:\ALGORITHMBASICS\P009_BestGrade\bin\Debug\net5.0\P009_BestGrade.pdb
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.dll
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\ref\P009_BestGrade.dll
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.pdb
+C:\ALGORITHMBASICS\P009_BestGrade\obj\Debug\net5.0\P009_BestGrade.genruntimeconfig.cache

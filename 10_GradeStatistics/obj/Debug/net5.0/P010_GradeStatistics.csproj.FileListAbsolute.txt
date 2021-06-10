@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P010_GradeStatistics\bin\Debug\net5.0\P010_GradeStatistics.exe
+C:\ALGORITHMBASICS\P010_GradeStatistics\bin\Debug\net5.0\P010_GradeStatistics.deps.json
+C:\ALGORITHMBASICS\P010_GradeStatistics\bin\Debug\net5.0\P010_GradeStatistics.runtimeconfig.json
+C:\ALGORITHMBASICS\P010_GradeStatistics\bin\Debug\net5.0\P010_GradeStatistics.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P010_GradeStatistics\bin\Debug\net5.0\P010_GradeStatistics.dll
+C:\ALGORITHMBASICS\P010_GradeStatistics\bin\Debug\net5.0\ref\P010_GradeStatistics.dll
+C:\ALGORITHMBASICS\P010_GradeStatistics\bin\Debug\net5.0\P010_GradeStatistics.pdb
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.dll
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\ref\P010_GradeStatistics.dll
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.pdb
+C:\ALGORITHMBASICS\P010_GradeStatistics\obj\Debug\net5.0\P010_GradeStatistics.genruntimeconfig.cache

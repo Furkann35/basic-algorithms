@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P001_RectangleArea\bin\Debug\net5.0\P001_RectangleArea.exe
+C:\ALGORITHMBASICS\P001_RectangleArea\bin\Debug\net5.0\P001_RectangleArea.deps.json
+C:\ALGORITHMBASICS\P001_RectangleArea\bin\Debug\net5.0\P001_RectangleArea.runtimeconfig.json
+C:\ALGORITHMBASICS\P001_RectangleArea\bin\Debug\net5.0\P001_RectangleArea.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P001_RectangleArea\bin\Debug\net5.0\P001_RectangleArea.dll
+C:\ALGORITHMBASICS\P001_RectangleArea\bin\Debug\net5.0\ref\P001_RectangleArea.dll
+C:\ALGORITHMBASICS\P001_RectangleArea\bin\Debug\net5.0\P001_RectangleArea.pdb
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.dll
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\ref\P001_RectangleArea.dll
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.pdb
+C:\ALGORITHMBASICS\P001_RectangleArea\obj\Debug\net5.0\P001_RectangleArea.genruntimeconfig.cache

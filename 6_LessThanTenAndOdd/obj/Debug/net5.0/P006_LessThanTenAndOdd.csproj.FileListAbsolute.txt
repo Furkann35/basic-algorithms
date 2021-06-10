@@ -1,0 +1,16 @@
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.exe
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.deps.json
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.runtimeconfig.json
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.runtimeconfig.dev.json
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.dll
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\bin\Debug\net5.0\ref\P006_LessThanTenAndOdd.dll
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\bin\Debug\net5.0\P006_LessThanTenAndOdd.pdb
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.csprojAssemblyReference.cache
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.AssemblyInfoInputs.cache
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.AssemblyInfo.cs
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.csproj.CoreCompileInputs.cache
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.dll
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\ref\P006_LessThanTenAndOdd.dll
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.pdb
+C:\ALGORITHMBASICS\P006_LessThanTenAndOdd\obj\Debug\net5.0\P006_LessThanTenAndOdd.genruntimeconfig.cache
